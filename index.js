@@ -36,7 +36,7 @@ console.log(color);
 // TODO: ADD CODE HERE
 let firstName="Nibras";
 let lastName= "Aljoubori";
-console.log("My name is " +  firstName +" "+ lastName)
+console.log(`My name is ${firstName} ${lastName}`)
 /* Challenge #3
  * Calculate the total price rounded to two decimals
  *
